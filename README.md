@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Nicolas (aka Kumo)
+# 👋 Salut, moi c’est Nicolas
 
 Bienvenue sur mon profil GitHub !  
 
