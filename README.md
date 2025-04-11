@@ -1,7 +1,9 @@
 # 👋 Salut, moi c’est Nicolas (aka Kumo)
 
 Bienvenue sur mon profil GitHub !  
+
 Je suis actuellement en formation sur **les fondamentaux du développement** chez Holberton School, où j'explore à la fois les **fondements bas-niveau** (langage C, Shell Unix) et les **technologies web modernes** (Python, Flask, SQL, JavaScript…).  
+
 Je me spécialise en **développement full-stack**, avec une approche axée sur la qualité du code, l’utilisabilité des interfaces et l’apprentissage continu.  
 J’ai également une **licence en sciences physiques**, avec une expérience concrète en **calcul numérique**.
 
