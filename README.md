@@ -53,7 +53,7 @@ Présentation orale autour du projet artistique de Björk et de l’UX design.
 ## 📫 Me contacter
 
 - 📧 nicolas.lassouane@icloud.com
-- 💼 [LinkedIn](https//www.linkedin.com/in/nicolas-lassouane)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-lassouane)
 - 🌐 [Portfolio]W.I.P.
 
 ---
