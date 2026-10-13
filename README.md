@@ -24,21 +24,6 @@ Je suis curieux, intuitif et toujours motivé pour apprendre de nouvelles techno
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
----
-
-## 🚀 Projets Holberton School
-
-### 🔧 [HbNB Web](https://github.com/turtle-nest/holberton-hbnb)
-Application web complète basée sur Flask, avec gestion d'API REST, base de données relationnelle, interface utilisateur dynamique, authentification, et interface d’administration.  
-> Projet full-stack complet (backend + frontend) — Python, Flask, SQLAlchemy, HTML/CSS, JS
-
-### 🐚 [Simple Shell](https://github.com/turtle-nest/holbertonschool-simple_shell)
-Mini-interpréteur de commandes Unix écrit en C, conforme aux normes POSIX.  
-> Gestion des commandes, forking, parsing, PATH, variables d’environnement, mémoire
-
-### 🧠 [Biophilia Talk]W.I.P.
-Présentation orale autour du projet artistique de Björk et de l’UX design.  
-> Projet transversal mêlant design, technologie, présentation publique en anglais
 
 ---
 
@@ -57,7 +42,4 @@ Présentation orale autour du projet artistique de Björk et de l’UX design.
 - 🌐 [Portfolio]W.I.P.
 
 ---
-
-> 🐢 “Ce n’est pas en connaissant l’issue qu’on réussit, mais en osant sortir du sable.”  
-> — *Citation personnelle*
 
